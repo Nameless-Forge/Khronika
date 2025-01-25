@@ -1,0 +1,28 @@
+{
+  "name": "khronika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "electron ./src/main/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nameless-Forge/Khronika.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nameless-Forge/Khronika/issues"
+  },
+  "homepage": "https://github.com/Nameless-Forge/Khronika#readme",
+  "dependencies": {
+    "electron": "^34.0.1"
+  }
+}
